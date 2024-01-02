@@ -1,10 +1,11 @@
 # shanshauxiao.github.io
 Shaula Jobelle D. Velan
 
-### **My Photography Journey** 📷
+**My Photography Journey📷**
 Paragraph
 ---
-**2022**
+## **2022**
+
 *Laudato Si Dry Run 2022*
 ![image](https://github.com/shanshauxiao/shanshauxiao.github.io/assets/150984521/b68e280f-c60f-48fa-9777-ad75010e2d9d.jpg)
 ![image](https://github.com/shanshauxiao/shanshauxiao.github.io/assets/150984521/bb99f72d-1271-4249-86f8-dc506b3367b5)
@@ -19,7 +20,7 @@ Paragraph
 ![DSC_0317](https://github.com/shanshauxiao/shanshauxiao.github.io/assets/150984521/ffb55a1c-42ba-4314-a7b0-8212c0ea5c84)
 
 ---
-**2023**
+## **2023**
 
 *Performance Task Making for Computer*
 ![DSC_0873](https://github.com/shanshauxiao/shanshauxiao.github.io/assets/150984521/d177c8ad-8590-419a-afa9-84d12f3b3b6a)
