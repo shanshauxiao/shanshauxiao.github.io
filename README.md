@@ -7,7 +7,7 @@ Paragraph
 ## **2022**
 
 *Laudato Si Dry Run 2022*
-![image](https://github.com/shanshauxiao/shanshauxiao.github.io/assets/150984521/b68e280f-c60f-48fa-9777-ad75010e2d9d.jpg)
+![image](https://github.com/shanshauxiao/shanshauxiao.github.io/assets/150984521/b68e280f-c60f-48fa-9777-ad75010e2d9d)
 ![image](https://github.com/shanshauxiao/shanshauxiao.github.io/assets/150984521/bb99f72d-1271-4249-86f8-dc506b3367b5)
 ![image](https://github.com/shanshauxiao/shanshauxiao.github.io/assets/150984521/85f3e0b3-73ef-4cd6-9a47-577334107a01)
 ![image](https://github.com/shanshauxiao/shanshauxiao.github.io/assets/150984521/fdb94baf-39eb-428f-8050-c233f4dfcf80)
